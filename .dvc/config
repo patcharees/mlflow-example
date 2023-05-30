@@ -1,0 +1,4 @@
+[core]
+    remote = dvc-remote
+['remote "dvc-remote"']
+    url = C:\Users\PatchareeThongtra\sources\repos\dvc-remote
